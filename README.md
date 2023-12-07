@@ -8,7 +8,7 @@ The following was concluded in the report
 
 2.Race breakdown: Employees of White race are dominant over other race 
 
-3.Age distribution: 5000 employees aged between 25-44 is the common age group
+3.Age distribution: Most common age group of employees is between 25-44 
 
 4.Mode of work breakdown: Around 5k employees are working remotely. 
 
