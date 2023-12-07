@@ -133,8 +133,3 @@ termdate timestamptz,
 location_city	text,
 location_state text
 );
-
-
-COPY HR
-FROM 'C:\Users\Dell\Documents\2023\Data analysis projects\Project-4\Dataset\Human Resources.csv'
-CSV HEADER;
